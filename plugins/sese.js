@@ -1,6 +1,6 @@
 /**
  * @title 涩涩
- * @rule ^(乃子|美女|黑丝|白丝|头像|壁纸)$
+ * @rule raw ^(乃子|美女|黑丝|白丝|头像|壁纸)$
  * @priority 0
  * @disable false
  * @admin false
